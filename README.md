@@ -4,15 +4,15 @@
 
 > This project consumes the hello_react_rails_backend API. It has been developed using React.
 
+## Backend API Links
+
+- [Github Repository](https://github.com/indigodavid/hello_react_rails_backend)
+- [Heroku Deployment](https://random-greeting-dvc.herokuapp.com/api/v1/hello)
 
 ## Built With
 
 - React
 - Redux Toolkit
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
 
 ## Getting Started
 
@@ -30,6 +30,7 @@ To get a local copy up and running follow these simple example steps.
 ### Install
 
     npm install
+    npm run build
 ### Usage
 
     npm start
