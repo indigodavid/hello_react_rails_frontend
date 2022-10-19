@@ -4,6 +4,10 @@
 
 > This project consumes the hello_react_rails_backend API. It has been developed using React.
 
+## Backend API Links
+
+- [Github Repository](https://github.com/indigodavid/hello_react_rails_backend)
+- [Heroku Deployment](https://random-greeting-dvc.herokuapp.com/api/v1/hello)
 
 ## Built With
 
